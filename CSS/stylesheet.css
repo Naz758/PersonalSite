@@ -1,0 +1,27 @@
+body{
+    background-color:#f8efd4;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dashed;
+}
+h2{
+    color: #132743;
+    font-size: 16px;
+}
+
+a:hover{
+    color: deeppink;
+}
+
+/* Class Selectors*/
+.Heading{
+    font-size: 20px;
+    color: #d7385e;
+}
+
+/* ID Selectors*/
+#name{
+    color: #edc988;
+}
